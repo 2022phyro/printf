@@ -1,0 +1,1 @@
+This repository contains all the necessary functions involved in the minute running of our makebelieve printf program. here we have files which contains functions to print an integr, print a string, print a char, print in different bases, etc.
