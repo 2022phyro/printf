@@ -1,0 +1,1 @@
+The files inside this repository sorry inside this directory allow us to carry out most of the printing functions of different functions that we have making now in this repository we have two functions to print binary thputchar the print string the main.h function where we declare our prototype and others
